@@ -279,26 +279,3 @@ Answer
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome.
-
-Feel free to fork the repository and submit a pull request.
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-# 👩‍💻 Author
-
-**Purvi Jain**
-
-AI/ML Enthusiast | B.Tech Artificial Intelligence
-
-GitHub: https://github.com/Purvijain1234
-
-LinkedIn: https://www.linkedin.com/in/purvi-jain-315683326/
